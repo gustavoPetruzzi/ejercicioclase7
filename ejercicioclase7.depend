@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1460167138 source:c:\users\chusti\desktop\programacion\c\ejercicioclase7\funciones.c
+
+1460173167 source:c:\users\chusti\desktop\programacion\c\ejercicioclase7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
